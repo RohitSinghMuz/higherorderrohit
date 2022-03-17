@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/higherorderrohit/static/css/main.073c9b0a.css",
+    "main.js": "/higherorderrohit/static/js/main.bf79f38f.js",
+    "static/js/787.518938ab.chunk.js": "/higherorderrohit/static/js/787.518938ab.chunk.js",
+    "index.html": "/higherorderrohit/index.html",
+    "main.073c9b0a.css.map": "/higherorderrohit/static/css/main.073c9b0a.css.map",
+    "main.bf79f38f.js.map": "/higherorderrohit/static/js/main.bf79f38f.js.map",
+    "787.518938ab.chunk.js.map": "/higherorderrohit/static/js/787.518938ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bf79f38f.js"
+  ]
+}
